@@ -28,5 +28,6 @@ console.log(cubeNumber(undefined));
 console.log(cubeNumber(NaN));
 console.log(cubeNumber(isNaN));
 console.log(cubeNumber(true));
+console.log(cubeNumber(false));
 
 
