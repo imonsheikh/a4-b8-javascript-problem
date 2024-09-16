@@ -28,4 +28,4 @@ console.log(sortMaker([4, 3]));
 console.log(sortMaker([2, 2]));
 console.log(sortMaker([2, -3]));
 console.log(sortMaker([-2, -3]));
-console.log(sortMaker([-2, 3]));
+console.log(sortMaker([-2, 3, 4]));
